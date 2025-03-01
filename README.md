@@ -25,10 +25,10 @@ Data Science | Synthetic Data Generation | Machine Learning | Computer Vision | 
   <table style="margin: 0 auto;" align="center">
     <tr>
       <td>
-        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanDuarte&theme=dark&hide_border=false"/>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=natanduartedev&theme=dark&hide_border=false"/>
       </td>
       <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanDuarte&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanduartedev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
       </td>
     </tr>
   </table>
