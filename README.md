@@ -15,11 +15,11 @@
 
 ---
 
-# Computer Scientist
+# Brazilian Computer Scientist
 
 ## Interests
 
-Data Science | Synthetic Data Generation | Machine Learning | Computer Vision | 3D Modeling | Computer Graphics
+3D Modeling | Computer Graphics
 
 <div>
   <table style="margin: 0 auto;" align="center">
