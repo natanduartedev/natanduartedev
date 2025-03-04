@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" alt="git" width="25" height="25" />
   <img alt="Jupyter" height="25" width="25" src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
 
-# Brazilian Computer Scientist
+<h1>Brazilian Computer Scientist<h1/>
 
 </p>
 
