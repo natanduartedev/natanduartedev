@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/59575502/127427976-be2bc801-ad71-4480-bda4-a6f64926cb7b.png" alt="linux" width="25" height="25" />
   <img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="25" height="25" />
   <img src="https://user-images.githubusercontent.com/59575502/127426759-a687aa90-d647-46c9-86f7-c8e948f8095e.png" alt="python" width="25" height="25" />
@@ -10,13 +10,13 @@
   <img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" alt="git" width="25" height="25" />
   <img alt="Jupyter" height="25" width="25" src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
 
-<h1>Brazilian Computer Scientist<h1/>
+<h1>Brazilian Computer Scientist</h1>
 
-</p>
+</div>
 
 ## Interests
 
-3D Modeling | Computer Graphics | procedural | emulation
+* 3D Modeling | Computer Graphics | procedural | emulation
 
 <div>
   <table style="margin: 0 auto;" align="center">
