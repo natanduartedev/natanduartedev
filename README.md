@@ -1,8 +1,8 @@
-#Brazilian Computer Scientist
+# Brazilian Computer Scientist
 
 * 3D Modeling | Computer Graphics | procedural | emulation
 
-<table style="margin: 0 auto;" align="center">
+<table style="margin: 0 auto;">
     <tr>
       <td>
         <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=natanduartedev&theme=dark&hide_border=false"/>
